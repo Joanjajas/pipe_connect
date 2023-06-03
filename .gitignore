@@ -1,3 +1,5 @@
 *
 !*.X68
+!*.wav
+!*.pdf
 !.gitignore
